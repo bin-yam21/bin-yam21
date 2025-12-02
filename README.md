@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="./github-banner.svg" alt="Rust Banner" width="800" />
 </p>
-<h1 align="center">👋 Hi, I'm Benjamin <img src="https://github.com/ABSphreak/ABSphreak/raw/master/gifs/Hi.gif" width="32" alt="waving hand"/></h1>
+<h1 align="center">👋 Hi, I'm Binyam <img src="https://github.com/ABSphreak/ABSphreak/raw/master/gifs/Hi.gif" width="32" alt="waving hand"/></h1>
 
 <p align="center">
   <strong>Rust Backend • System Design • Fullstack Development • Telegram Mini Apps</strong>
