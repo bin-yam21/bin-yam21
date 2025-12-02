@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="./assets/rust-banner.svg" alt="Rust Banner" width="800" />
+  <img src="./github-banner.svg" alt="Rust Banner" width="800" />
 </p>
 <h1 align="center">👋 Hi, I'm Benjamin <img src="https://github.com/ABSphreak/ABSphreak/raw/master/gifs/Hi.gif" width="32" alt="waving hand"/></h1>
 
